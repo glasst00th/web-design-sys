@@ -1,0 +1,120 @@
+/* universal styles */
+
+
+
+/* header */
+header h1 {
+	text-align: center;
+}
+
+
+/* body */ 
+section {
+	border: solid #000000 2px;
+	border-radius: 4px;
+	padding: 2vw;
+	margin: 2vw;
+}
+
+	/* colors section */
+.colors div {
+	display: inline-block;
+	width: 25%;
+	text-align: center;
+	margin: .5vw;
+	border-radius: 4px;
+}
+
+#palebuttercup {
+	background-color: #fafad1;
+}
+
+#humus {
+	background-color: #342619;
+	color: #ffffff;
+}
+
+#monstera {
+	background-color: #00994d;
+}
+
+#colddawn {
+	background-color: #eef6f6;
+}
+
+#lichen {
+	background-color: #999966;
+}
+
+#crocus {
+	background-color: #cdb0e8;
+}
+
+	/* fonts section */
+.fonts div {
+	display: inline-block;
+	width: 30%;
+	text-align: left;
+	margin: .5vw;
+}
+
+.fonts h3 {
+	text-decoration: underline;
+	font-size: 1.5em;
+}
+.fonts p {
+	font-size: 1.25em;
+}
+.fonts .bold {
+	font-weight: 900;
+}
+.fonts .italics {
+	font-style: italic;
+}
+#italiana {
+	font-family: "Italiana", serif;
+}
+#quicksand {
+	font-family: "Quicksand", sans-serif;
+}
+#pridi {
+	font-family: "Pridi", serif;
+	letter-spacing: 0.1rem;
+}
+
+
+	/* page text elements section */
+#headings {
+	font-weight: 900;
+	font-family: "Pridi", serif;
+	font-size: 2em;
+	letter-spacing: 0.1rem;
+	margin-bottom: 0;
+}
+#subheadings {
+	font-weight: 400;
+	font-family: "Italiana", sans-serif;
+	font-size: 1.5em;
+	margin-bottom: 0;
+	font-style: italic;
+}
+#paragraphs {
+	font-weight: 400;
+	font-family: "Quicksand", sans-serif;
+	font-size: 1em;
+	margin-bottom: 0;
+}
+#citations {
+	font-weight: 300;
+	font-family: "Quicksand", sans-serif;
+	font-size: .75em;
+	margin-bottom: 0;
+}
+.tstyles ul {
+	margin-top: 0;
+	margin-bottom: 2vh;
+}
+
+/* footer */
+
+
